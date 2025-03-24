@@ -1,46 +1,20 @@
-Snake Game 🐍
+# Snake Game 🐍
 
 Um simples jogo da cobrinha desenvolvido em Java.
 
-📌 Sobre o Projeto
+## 📌 Sobre o Projeto
 
-O Snake Game é um jogo clássico onde o jogador controla uma cobra que cresce ao comer comida. O objetivo é crescer o máximo possível sem colidir com as bordas ou com o próprio corpo.
+O **Snake Game** é um jogo clássico onde o jogador controla uma cobra que cresce ao comer comida. O objetivo é crescer o máximo possível sem colidir com as bordas ou com o próprio corpo.
 
-🎮 Como Jogar
+## 🎮 Como Jogar
 
-Use as setas do teclado para mover a cobra.
+- Use as setas do teclado para mover a cobra.
+- Coma a comida para crescer.
+- Evite colidir com as paredes e consigo mesmo.
+- O jogo termina quando a cobra bate na parede ou no próprio corpo.
 
-Coma a comida para crescer.
+## 🛠️ Tecnologias Utilizadas
 
-Evite colidir com as paredes e consigo mesmo.
-
-O jogo termina quando a cobra bate na parede ou no próprio corpo.
-
-🛠️ Tecnologias Utilizadas
-
-Java: Linguagem de programação principal do jogo.
-
-Swing: Para a interface gráfica.
-
-AWT: Para manipulação de gráficos e eventos do teclado.
-
-🚀 Como Executar
-
-Certifique-se de ter o Java instalado na sua máquina.
-
-Clone este repositório:
-
-git clone https://github.com/seu-usuario/snake-game-java.git
-
-Navegue até o diretório do projeto:
-
-cd snake-game-java
-
-Compile o código:
-
-javac SnakeGame.java
-
-Execute o jogo:
-
-java SnakeGame
-
+- **Java**: Linguagem de programação principal do jogo.
+- **Swing**: Para a interface gráfica.
+- **AWT**: Para manipulação de gráficos e eventos do teclado.
